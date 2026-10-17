@@ -1,0 +1,4 @@
+2026/10/17-06:34:45.536 699c Creating DB C:\Users\crife\Documents\juego web ing\servidor\.wwebjs_auth\session\Default\shared_proto_db\metadata since it was missing.
+2026/10/17-06:34:45.542 699c Reusing MANIFEST C:\Users\crife\Documents\juego web ing\servidor\.wwebjs_auth\session\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/10/17-06:34:45.543 699c Recovering log #3
+2026/10/17-06:34:45.543 699c Reusing old log C:\Users\crife\Documents\juego web ing\servidor\.wwebjs_auth\session\Default\shared_proto_db\metadata/000003.log 

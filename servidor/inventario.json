@@ -1,0 +1,23 @@
+[
+  {
+    "negocio": "Delilex",
+    "litros": 820,
+    "fechaRecolectado": "2026-10-17",
+    "ubicacion": "San Felipe gto",
+    "estado": "Recolectado"
+  },
+  {
+    "negocio": "Fried Chicken",
+    "litros": 200,
+    "fechaRecolectado": "2026-10-17",
+    "ubicacion": "San Felipe",
+    "estado": "Recolectado"
+  },
+  {
+    "negocio": "boneless martinez",
+    "litros": 150,
+    "fechaRecolectado": "2026-10-17",
+    "ubicacion": "leon, gto",
+    "estado": "Recolectado"
+  }
+]

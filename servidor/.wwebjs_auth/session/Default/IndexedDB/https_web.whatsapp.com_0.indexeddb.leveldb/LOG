@@ -1,0 +1,66 @@
+2026/10/17-07:01:00.045 5b68 Reusing MANIFEST C:\Users\crife\Documents\juego web ing\servidor\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/10/17-07:01:00.046 5b68 Recovering log #438
+2026/10/17-07:01:00.048 5b68 Reusing old log C:\Users\crife\Documents\juego web ing\servidor\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000438.log 
+2026/10/17-07:01:00.049 5b68 Delete type=2 #431
+2026/10/17-07:01:00.049 5b68 Delete type=2 #432
+2026/10/17-07:01:00.049 5b68 Delete type=2 #433
+2026/10/17-07:01:00.050 5b68 Delete type=2 #434
+2026/10/17-07:01:00.050 5b68 Delete type=2 #435
+2026/10/17-07:01:00.050 5b68 Delete type=2 #436
+2026/10/17-07:01:10.423 5b68 Level-0 table #448: started
+2026/10/17-07:01:10.473 5b68 Level-0 table #448: 1297694 bytes OK
+2026/10/17-07:01:10.475 5b68 Delete type=0 #438
+2026/10/17-07:01:10.587 5b68 Compacting 1@1 + 6@2 files
+2026/10/17-07:01:10.734 5b68 Generated table #449@1: 65420 keys, 2233828 bytes
+2026/10/17-07:01:10.792 5b68 Generated table #450@1: 3698 keys, 2159194 bytes
+2026/10/17-07:01:10.825 5b68 Generated table #451@1: 2502 keys, 2156398 bytes
+2026/10/17-07:01:10.917 5b68 Generated table #452@1: 25915 keys, 2255597 bytes
+2026/10/17-07:01:10.997 5b68 Generated table #453@1: 37558 keys, 2179603 bytes
+2026/10/17-07:01:11.062 5b68 Generated table #454@1: 72129 keys, 1723773 bytes
+2026/10/17-07:01:11.062 5b68 Compacted 1@1 + 6@2 files => 12708393 bytes
+2026/10/17-07:01:11.066 5b68 compacted to: files[ 0 0 6 0 0 0 0 ]
+2026/10/17-07:02:33.298 5b68 Level-0 table #456: started
+2026/10/17-07:02:33.334 5b68 Level-0 table #456: 1132650 bytes OK
+2026/10/17-07:02:33.336 5b68 Delete type=2 #440
+2026/10/17-07:02:33.336 5b68 Delete type=2 #441
+2026/10/17-07:02:33.336 5b68 Delete type=2 #442
+2026/10/17-07:02:33.336 5b68 Delete type=2 #443
+2026/10/17-07:02:33.336 5b68 Delete type=2 #444
+2026/10/17-07:02:33.336 5b68 Delete type=2 #445
+2026/10/17-07:02:33.336 5b68 Delete type=0 #447
+2026/10/17-07:02:33.336 5b68 Delete type=2 #448
+2026/10/17-07:02:49.559 5b68 Compacting 1@1 + 6@2 files
+2026/10/17-07:02:49.637 5b68 Generated table #457@1: 66606 keys, 2232227 bytes
+2026/10/17-07:02:49.680 5b68 Generated table #458@1: 7736 keys, 2165485 bytes
+2026/10/17-07:02:49.706 5b68 Generated table #459@1: 2483 keys, 2155405 bytes
+2026/10/17-07:02:49.774 5b68 Generated table #460@1: 24992 keys, 2245741 bytes
+2026/10/17-07:02:49.820 5b68 Generated table #461@1: 28203 keys, 2177640 bytes
+2026/10/17-07:02:49.878 5b68 Generated table #462@1: 84045 keys, 1995288 bytes
+2026/10/17-07:02:49.879 5b68 Compacted 1@1 + 6@2 files => 12971786 bytes
+2026/10/17-07:02:49.879 5b68 compacted to: files[ 0 0 6 0 0 0 0 ]
+2026/10/17-07:02:49.880 5b68 Delete type=2 #449
+2026/10/17-07:02:49.880 5b68 Delete type=2 #450
+2026/10/17-07:02:49.881 5b68 Delete type=2 #451
+2026/10/17-07:02:49.881 5b68 Delete type=2 #452
+2026/10/17-07:02:49.881 5b68 Delete type=2 #453
+2026/10/17-07:02:49.881 5b68 Delete type=2 #454
+2026/10/17-07:02:49.881 5b68 Delete type=2 #456
+2026/10/17-07:55:09.599 5b68 Level-0 table #464: started
+2026/10/17-07:55:09.629 5b68 Level-0 table #464: 1236700 bytes OK
+2026/10/17-07:55:09.631 5b68 Delete type=0 #455
+2026/10/17-07:55:10.124 5b68 Compacting 1@1 + 6@2 files
+2026/10/17-07:55:10.192 5b68 Generated table #465@1: 66688 keys, 2232014 bytes
+2026/10/17-07:55:10.222 5b68 Generated table #466@1: 10856 keys, 2169022 bytes
+2026/10/17-07:55:10.252 5b68 Generated table #467@1: 2463 keys, 2154464 bytes
+2026/10/17-07:55:10.318 5b68 Generated table #468@1: 23889 keys, 2240230 bytes
+2026/10/17-07:55:10.353 5b68 Generated table #469@1: 21326 keys, 2177262 bytes
+2026/10/17-07:55:10.414 5b68 Generated table #470@1: 93464 keys, 2212959 bytes
+2026/10/17-07:55:10.414 5b68 Compacted 1@1 + 6@2 files => 13185951 bytes
+2026/10/17-07:55:10.415 5b68 compacted to: files[ 0 0 6 0 0 0 0 ]
+2026/10/17-07:55:10.416 5b68 Delete type=2 #457
+2026/10/17-07:55:10.416 5b68 Delete type=2 #458
+2026/10/17-07:55:10.416 5b68 Delete type=2 #459
+2026/10/17-07:55:10.416 5b68 Delete type=2 #460
+2026/10/17-07:55:10.416 5b68 Delete type=2 #461
+2026/10/17-07:55:10.416 5b68 Delete type=2 #462
+2026/10/17-07:55:10.416 5b68 Delete type=2 #464

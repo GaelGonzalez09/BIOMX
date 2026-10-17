@@ -1,0 +1,5 @@
+2026/10/17-06:34:45.589 3680 Creating DB C:\Users\crife\Documents\juego web ing\servidor\.wwebjs_auth\session\Default\Local Storage\leveldb since it was missing.
+2026/10/17-06:34:45.622 3680 Reusing MANIFEST C:\Users\crife\Documents\juego web ing\servidor\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2026/10/17-06:34:45.626 3680 Recovering log #4
+2026/10/17-06:34:45.633 3680 Reusing old log C:\Users\crife\Documents\juego web ing\servidor\.wwebjs_auth\session\Default\Local Storage\leveldb/000004.log 
+2026/10/17-06:34:45.634 3680 Delete type=2 #5

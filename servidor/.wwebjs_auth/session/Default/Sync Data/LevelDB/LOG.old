@@ -1,0 +1,4 @@
+2026/10/17-06:34:45.499 4d70 Creating DB C:\Users\crife\Documents\juego web ing\servidor\.wwebjs_auth\session\Default\Sync Data\LevelDB since it was missing.
+2026/10/17-06:34:45.508 4d70 Reusing MANIFEST C:\Users\crife\Documents\juego web ing\servidor\.wwebjs_auth\session\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/10/17-06:34:45.508 4d70 Recovering log #3
+2026/10/17-06:34:45.509 4d70 Reusing old log C:\Users\crife\Documents\juego web ing\servidor\.wwebjs_auth\session\Default\Sync Data\LevelDB/000003.log 

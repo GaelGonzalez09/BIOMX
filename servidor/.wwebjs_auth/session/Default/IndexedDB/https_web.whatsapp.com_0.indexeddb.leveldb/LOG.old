@@ -1,0 +1,25 @@
+2026/10/17-06:42:10.740 5960 Reusing MANIFEST C:\Users\crife\Documents\juego web ing\servidor\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/10/17-06:42:10.756 5960 Recovering log #429
+2026/10/17-06:42:10.760 5960 Reusing old log C:\Users\crife\Documents\juego web ing\servidor\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000429.log 
+2026/10/17-06:42:10.764 5960 Delete type=2 #423
+2026/10/17-06:42:10.764 5960 Delete type=2 #424
+2026/10/17-06:42:10.765 5960 Delete type=2 #425
+2026/10/17-06:42:10.766 5960 Delete type=2 #426
+2026/10/17-06:42:10.766 5960 Delete type=2 #427
+2026/10/17-06:42:10.766 5960 Delete type=2 #428
+2026/10/17-06:42:10.908 6478 Level-0 table #439: started
+2026/10/17-06:42:10.948 6478 Level-0 table #439: 316 bytes OK
+2026/10/17-06:42:10.951 6478 Delete type=0 #429
+2026/10/17-06:42:10.989 4d70 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/10/17-06:42:10.990 6478 Manual compaction at level-1 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0f\x00\x00\x05' @ 2814689 : 1
+2026/10/17-06:42:10.990 6478 Compacting 1@1 + 6@2 files
+2026/10/17-06:42:12.502 6478 Generated table #440@1: 62168 keys, 2230497 bytes
+2026/10/17-06:42:12.899 6478 Generated table #441@1: 2750 keys, 2158114 bytes
+2026/10/17-06:42:13.071 6478 Generated table #442@1: 4101 keys, 2156942 bytes
+2026/10/17-06:42:13.614 6478 Generated table #443@1: 26027 keys, 2256519 bytes
+2026/10/17-06:42:14.000 6478 Generated table #444@1: 45741 keys, 2186623 bytes
+2026/10/17-06:42:14.198 6478 Generated table #445@1: 60667 keys, 1462196 bytes
+2026/10/17-06:42:14.199 6478 Compacted 1@1 + 6@2 files => 12450891 bytes
+2026/10/17-06:42:14.199 6478 compacted to: files[ 0 0 6 0 0 0 0 ]
+2026/10/17-06:42:14.200 6478 Delete type=2 #439
+2026/10/17-06:42:14.202 4d70 Manual compaction at level-1 from '\x00\x0f\x00\x00\x05' @ 2814689 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
